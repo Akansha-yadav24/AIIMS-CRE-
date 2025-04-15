@@ -1,6 +1,4 @@
-Absolutely! Here's a **comprehensive list of 50 C programming problems** selected from **LeetCode and common competitive programming patterns**, perfectly suited for **AIIMS CRE 2024 Skill Test preparation**. These problems are designed to test your logic, syntax, loops, arrays, pointers, strings, and basic data structure understanding in C.
 
----
 
 ## ✅ **C Programming Practice List – AIIMS CRE Level (50 Programs)**
 
@@ -64,9 +62,9 @@ Absolutely! Here's a **comprehensive list of 50 C programming problems** selecte
 41. Swap using pointers  
 42. Sum of array using pointers  
 43. Reverse array using pointer  
-44. Count number of 1 bits (Hamming weight) – [LeetCode Link](https://leetcode.com/problems/number-of-1-bits/)  
-45. Find number that appears once – XOR trick – [LeetCode Link](https://leetcode.com/problems/single-number/)  
-46. Check power of two – [LeetCode Link](https://leetcode.com/problems/power-of-two/)
+44. Count number of 1 bits (Hamming weight) 
+45. Find number that appears once – XOR trick 
+46. Check power of two 
 
 ---
 
